@@ -11,4 +11,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Hi There This is my first upload or attempt for 
 https://www.frontendmentor.io/profile/NCodeID
 
-Url to web : https://ncode.github.io/frontendmentor-qr-code
+Url to web : http://ncode.github.io/frontendmentor-qr-code
