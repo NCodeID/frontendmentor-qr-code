@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+![Alt text](https://github.com/NCodeID/qr-code-component-main/blob/main/result.png)
 
 
 Hi There This is my first upload or attempt for 
